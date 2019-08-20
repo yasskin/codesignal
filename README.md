@@ -5,9 +5,9 @@ My codesignatl profile is [CodeSignal] (https://app.codesignal.com/profile/noah_
 ## Intro
 
 ### The Journey Begins
-1. [add] (/intro.add.js)
-2. [centuryFromYear] (/intro/centuryFromYear.js)
-3. [checkPalindrome] (/intro/checkPalindrome.js)
+1. [add] (https://github.com/yasskin/codesignal/blob/master/Intro/add.js)
+2. [centuryFromYear] (https://github.com/yasskin/codesignal/blob/master/Intro/centuryFromYear.js)
+3. [checkPalindrome] (https://github.com/yasskin/codesignal/blob/master/Intro/add.jscheckPalindrome.js)
 ### Edge of the Ocean
 ### Smooth Sailing
 ### Exploring the Waters
